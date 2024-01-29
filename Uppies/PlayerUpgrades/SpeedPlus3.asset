@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e8c70c93bda094419b030ab0963fc24, type: 3}
+  m_Name: SpeedPlus3
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 27f0ae5f9f59faa49b5f2d3caa5d157c, type: 3}
+  description: 
+  requirements:
+  - {fileID: 11400000, guid: 4642773062b570446b66d61e638054f0, type: 2}
+  speedIncrease: 0.3

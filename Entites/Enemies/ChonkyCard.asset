@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0ba426ef7dd6ec438aa47c58099afa5, type: 3}
+  m_Name: ChonkyCard
+  m_EditorClassIdentifier: 
+  go: {fileID: 6705402075998324148, guid: 374cf441a5076eb4bb293a6a9ab5b45a, type: 3}
+  density: 2
+  SoStats: {fileID: 11400000, guid: b513578a240745743b69742a235aa1cf, type: 2}

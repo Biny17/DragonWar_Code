@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed58e557921958340a98313e19f92af1, type: 3}
+  m_Name: RootUp
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: c6c47a3be151e3a49b453e77e8c8ad08, type: 3}
+  description: 
+  requirements:
+  - {fileID: 11400000, guid: 65174328d18d41841b97ff4110002d42, type: 2}
+  AbilityName: 1
+  effect: {fileID: 11400000, guid: d169ac896e3c5084baa87aec3eed8072, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3deae6779229fdc4fb8d87f56fa0e6b5, type: 3}
+  m_Name: HealOnKill2
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 0d0749ca12a74da4ea0ae091eb88307a, type: 3}
+  description: 
+  requirements:
+  - {fileID: 11400000, guid: 65174328d18d41841b97ff4110002d42, type: 2}
+  AbilityName: 1
+  healAmount: 15

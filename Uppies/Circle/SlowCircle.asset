@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed58e557921958340a98313e19f92af1, type: 3}
+  m_Name: SlowCircle
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 7a8da37a2e0936c49b8b88e3d66f7b44, type: 3}
+  description: 
+  requirements:
+  - {fileID: 11400000, guid: f3c4efa5e1c12584a9bf6d1599f44ce8, type: 2}
+  AbilityName: 0
+  effect: {fileID: 11400000, guid: 3fca16bf5cbe22c40ac1f4f6c7ed5367, type: 2}

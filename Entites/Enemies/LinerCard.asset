@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab9b2657c0adbd84280ae6e28bebf49c, type: 3}
+  m_Name: LinerCard
+  m_EditorClassIdentifier: 
+  go: {fileID: 3914552532551268532, guid: 74c3e9fafce909444bba3e8ed7631212, type: 3}
+  density: 3
+  SoStats: {fileID: 11400000, guid: 1efad3fabb6fe9441b407f3ef69e0b2f, type: 2}

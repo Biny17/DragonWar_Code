@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60f49367d6288b94eb0db6177d7e4cdb, type: 3}
+  m_Name: CircleUpgrades
+  m_EditorClassIdentifier: 
+  abilityName: 0
+  upgrades:
+  - {fileID: 11400000, guid: b7c5ba30576b1aa4da284ba8e4dfa020, type: 2}
+  - {fileID: 11400000, guid: eccd34ff4a2aa0646aeae1c51a510af1, type: 2}
+  - {fileID: 11400000, guid: fa19c4ce8aabf2c4ea65c7da75da0252, type: 2}
+  - {fileID: 11400000, guid: d09b10398bdbb714cbc3ba2dcaa312af, type: 2}
+  - {fileID: 11400000, guid: f59e4f15add463c41a0a1ce43ad1608a, type: 2}
+  - {fileID: 11400000, guid: f3c4efa5e1c12584a9bf6d1599f44ce8, type: 2}
+  - {fileID: 11400000, guid: f0017d88c764fb04886d8081beb8129a, type: 2}
+  - {fileID: 11400000, guid: 9fa834eef9ed20742ba0bbe6b514c28e, type: 2}
+  - {fileID: 11400000, guid: ef9b2fd1b6be6f04a800c42f500e9fed, type: 2}
+  - {fileID: 11400000, guid: 3a48887b765f30e4aa28038da51ae450, type: 2}
+  - {fileID: 11400000, guid: 8dac8bfed52af6f45811a17dc845b691, type: 2}
+  - {fileID: 11400000, guid: f726311bf3443584dac9ae6697c01889, type: 2}
+  - {fileID: 11400000, guid: eccd34ff4a2aa0646aeae1c51a510af1, type: 2}
+  - {fileID: 11400000, guid: 8913175aa2cc4074c9aa3e879df53dde, type: 2}

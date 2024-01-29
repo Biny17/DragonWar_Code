@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 425d06c5ab7aaf94bbbc7d4f9a4ea003, type: 3}
+  m_Name: BurnUp3
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 062eeb9d5e8ba8f45a9ddfea52518f82, type: 3}
+  description: 
+  requirements:
+  - {fileID: 11400000, guid: b7c5ba30576b1aa4da284ba8e4dfa020, type: 2}
+  - {fileID: 11400000, guid: f726311bf3443584dac9ae6697c01889, type: 2}
+  AbilityName: 0
+  durationUp: 3
+  damageUp: 80

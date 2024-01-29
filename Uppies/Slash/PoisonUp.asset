@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14861e54f9d70cb4b920906800cb43b9, type: 3}
+  m_Name: PoisonUp
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 325d33c6d266f0e448f60efb34dde7b1, type: 3}
+  description: 
+  requirements:
+  - {fileID: 11400000, guid: fe2872b831330004782fdc8a27c26e04, type: 2}
+  AbilityName: 1
+  durationUp: 1
+  damageUp: 40
