@@ -1,13 +1,15 @@
 # 💡 Coding with C# and Unity
-List<things> ILearned = /[Events, delegate, coroutines, LINQ, Polymorphism, static class/methods, Scriptable objects/]
+### List<things> ILearnedInC#
+Delegates, coroutines, LINQ, Polymorphism, static class/methods, foreach loop, List, Queue, Stack, Dictionary, Interfaces
+### List<things> ILearnedInUnity
+Monobehaviors and its methods, Events,Scriptable Objects, new Input System, Colliders, Character Controller, Canva, 
+Button, Images, Textures, Animator, Slider, Meshes, Camera, Pooling
 
 
 # 🌇 Design patterns
 While coding the game i learned about design patterns and implemented them gradually.
 I would re-do a some parts differently but hey let's not touch what is not broken 😎
-
-
-
+### Design patterns i used: visitors, composition over inheritance, observers, singleton.
 
 # 💔 Healbars
 ## Procedurally generated
