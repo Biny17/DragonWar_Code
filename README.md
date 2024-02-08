@@ -35,7 +35,7 @@ Gradient from green to red:
 
 Pooling is a good way to improve performance, right now it's only used for the damage text popup.
 I will extend it to ennemies and projectiles next.
-I like my implementation in VisualDamageHeal.cs,
+I like my implementation in VisualDamageHeal.cs.  
 The pool is static so it belongs to the class:
 ```csharp
 private static ObjectPool<PopText> pool;
@@ -51,4 +51,12 @@ static VisualDamageHeal()
     );
 }
 ```
-And every instance of the class will take an element from the same pool.
+Every instance of the class will take an element from the same pool.  
+Every pool element have a reference to the pool to get back to it when finished.
+``` csharp
+private void BackToPool()
+{
+    gameObject.SetActive(false);
+    _pool.Release(this);
+}
+```
