@@ -33,8 +33,8 @@ Gradient from green to red:
 
 ## 🏊 Pooling
 
-Pooling is a good way to improve performance, right now it's only used for the damage text popup.
-I will extend it to ennemies and projectiles next.
+Pooling is a good way to improve performance, right now it's only used for the damage text popup.  
+I will extend it to ennemies and projectiles next.  
 I like my implementation where the pool is static and belongs to the class.  
 In [Entites/Code/VisualDamageHeal.cs](/Entites/Code/VisualDamageHeal.cs)
 ```csharp
