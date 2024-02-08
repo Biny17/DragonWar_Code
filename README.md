@@ -19,8 +19,8 @@ Additionally there is a color gradient from green = 100 to red = 0
 100 Health points Bar:  
 ![100 Healthpoints Bar](100%20HB.PNG)
 250 Health points Bar:  
-![250 Healthpoints Bar](250HB.PNG)
-Gradient from green to red:
-![Gradient](250HB.PNG)
+![250 Healthpoints Bar](250HB.PNG)  
+Gradient from green to red:  
+![Gradient](LowHB.PNG)  
 
 
