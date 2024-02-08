@@ -29,4 +29,26 @@ Additionally there is a color gradient from green = 100 to red = 0.
 250 Health points Bar:  
 <img src="Img/250HB.PNG" height="60"><br> 
 Gradient from green to red:  
-![Gradient](Img/LowHB.PNG)  
+![Gradient](Img/LowHB.PNG)
+
+## 🏊 Pooling
+
+Pooling is a good way to improve performance, right now it's only used for the damage text popup.
+I will extend it to ennemies and projectiles next.
+I like my implementation in VisualDamageHeal.cs,
+The pool is static so it belongs to the class:
+```csharp
+private static ObjectPool<PopText> pool;
+
+// Static constructor
+static VisualDamageHeal()
+{
+    pool = new ObjectPool<PopText>(
+        createFunc: CreateText,
+        actionOnGet:  null,
+        actionOnRelease: null,
+        defaultCapacity: 150
+    );
+}
+```
+And every instance of the class will take an element from the same pool.
