@@ -52,6 +52,7 @@ public class VisualDamageHeal : MonoBehaviour
         }
     }
 
+    // no effects for heal yet
     void HealAura(int amount)
     {
 
